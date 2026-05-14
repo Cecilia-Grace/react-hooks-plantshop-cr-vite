@@ -43,28 +43,10 @@
       "price": 55
     },
     {
-      "id": "8a76",
+      "id": "d74b",
       "name": "Calathea",
       "image": "./images/calathea.jpg",
       "price": "11"
-    },
-    {
-      "id": "1a0f",
-      "name": "Calathea2",
-      "image": "./images/calathea.jpg",
-      "price": "22"
-    },
-    {
-      "id": "3f76",
-      "name": "Calathea3",
-      "image": "./images/calathea.jpg",
-      "price": "13"
-    },
-    {
-      "id": "ee20",
-      "name": "Calathea4",
-      "image": "./images/calathea.jpg",
-      "price": "14"
     }
   ]
 }
